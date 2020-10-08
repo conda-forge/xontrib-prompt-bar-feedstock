@@ -5,11 +5,13 @@ Home: https://github.com/anki-code/xontrib-prompt-bar
 
 Package license: BSD-2-Clause
 
-Feedstock license: BSD-3-Clause
+Feedstock license: [BSD-3-Clause](https://github.com/conda-forge/xontrib-prompt-bar-feedstock/blob/master/LICENSE.txt)
 
 Summary: Bar theme for xonsh shell
 
+Development: https://github.com/anki-code/xontrib-prompt-bar
 
+Documentation: https://github.com/anki-code/xontrib-prompt-bar/blob/master/README.md
 
 Current build status
 ====================
