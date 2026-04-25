@@ -1,5 +1,5 @@
 {% set name = "xontrib-prompt-bar" %}
-{% set version = "0.2.5" %}
+{% set version = "0.2.8" %}
 
 package:
   name: {{ name|lower }}
@@ -7,7 +7,7 @@ package:
 
 source:
   url: https://pypi.io/packages/source/{{ name[0] }}/{{ name }}/{{ name }}-{{ version }}.tar.gz
-  sha256: 1ca2f5bc5de384481d6bb359fa23767eaa066d002aa14216f8699026d0c23df5
+  sha256: 93189a04d3729137ce57728f4183891a9780332cb8f94439a33e8c5ccb5302c5
 
 build:
   noarch: python
